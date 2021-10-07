@@ -61,6 +61,13 @@ img{
     height:500px;
 }
 
+button{
+    background-color:#3882f6;
+    border: 1px solid #3882f6;
+    color:#f9faf8;
+    border-radius:5%;
+}
+
 .section1 {
     background-color: #1f2937;
     padding:50px;
