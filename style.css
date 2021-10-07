@@ -19,3 +19,19 @@
     height:75px;
     border:2px solid #3882f6;
 }
+
+.headertxt{
+    font-size:24px;
+    color:#f9faf8;
+}
+
+.secondarytxt{
+    font-size:18px;
+    color:#e5e7eb;
+}
+
+#header1{
+    font-size:48px;
+    font-weight: bold;
+    color:#f9faf8;
+}
