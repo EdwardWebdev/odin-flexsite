@@ -151,12 +151,21 @@ button{
 }
 
 .cta{
-    height:150px;
+    height: 100px;
     width:900px;
     border: 1px solid #3882f6;
     border-radius: 2%;
     background-color: #3882f6;
     display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:100px;
+    color: white;
+}
+
+.signup{
+    border: 1px solid white;
+    padding:15px;
 }
 
 #header1{
