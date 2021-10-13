@@ -74,7 +74,7 @@ button{
     display:flex;
     flex-direction: column;
     gap:20px;
-    height:600px;
+    padding:50px;
 }
 
 .section2{
@@ -83,12 +83,12 @@ button{
     flex-direction: column;
     justify-content: center;
     gap:125px;
-    height:600px;
+    padding:50px;
 }
 
 .section3{
     background-color: #e5e7eb;
-    height:600px;
+    padding:50px;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -96,7 +96,7 @@ button{
 }
 
 .section4{
-    height:600px;
+    padding:50px;
     display:flex;
     justify-content: center;
     align-items: center;
@@ -151,9 +151,12 @@ button{
 }
 
 .cta{
-    height:400px;
+    height:150px;
     width:900px;
     border: 1px solid #3882f6;
+    border-radius: 2%;
+    background-color: #3882f6;
+    display:flex;
 }
 
 #header1{
