@@ -70,14 +70,17 @@ button{
 
 .section1 {
     background-color: #1f2937;
-    padding:50px;
+    padding:10px;
     display:flex;
     flex-direction: column;
-    gap:40px;
+    gap:20px;
 }
 
 .section2{
-
+    text-align:center;
+    display:flex;
+    flex-direction: column;
+    gap:40px;
 }
 
 .section3{
@@ -90,7 +93,8 @@ button{
 
 .media{
     display:flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap:200px;
 }
 
 .leftmedia{
@@ -105,6 +109,13 @@ button{
     width:75px;
     height:75px;
     border:2px solid #3882f6;
+}
+
+.boxes{
+    margin-bottom:30px;
+    display:flex;
+    justify-content: center;
+    gap:40px;
 }
 
 .headertxt{
